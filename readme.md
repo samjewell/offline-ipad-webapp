@@ -17,7 +17,7 @@ chrome://appcache-internals/
 ToDo
 
 - [X] try with multiple URLs (just no params)
-- [ ] get it onto Github pages
+- [X] get it onto Github pages
 - [ ] get the 'save to home screen' icon working
 - [ ] learn how to clear the cache on iOS. By removing the browser (last resort)?
 
